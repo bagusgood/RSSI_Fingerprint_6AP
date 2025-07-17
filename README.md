@@ -1,1 +1,1 @@
-# 3D_GAN_6AP
+# Wifi RSSI Indoor Localization with 20 RP and 6 AP
